@@ -1,0 +1,51 @@
+body {
+    font-family: ceursiv;
+    margin: 3;
+    color: rgb(255, 255, 255);
+    padding: 3;
+    background-image: linear-gradient(rgba(230, 236, 249, 0.7),rgba(56, 59, 71, 0.7)),url(images/espejo2.jpg);
+  }
+  
+  header {
+    
+    min-height: 10vh;
+    width: 100%;
+    background-color: #595959;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+  } 
+    
+
+  
+  nav {
+    background-color: #f2f2f2;
+  }
+  
+  nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  nav ul li {
+    display: inline-block;
+    margin-right: 10px;
+  }
+  
+  nav ul li a {
+    text-decoration: none;
+    color: #baa6a6;
+  }
+  
+  main section {
+    padding: 20px;
+    margin-bottom: 20px;
+  }
+  
+  footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+  }
